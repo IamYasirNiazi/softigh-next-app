@@ -1,0 +1,25 @@
+.card{
+    width: 15rem !important;
+    border: 1px solid rgba(128, 128, 128, 0.205);
+    border-radius: .4rem;
+    padding: .7rem;
+}
+
+.a{
+    color: unset;
+    text-decoration: none;
+}
+
+.image{
+    width: 100%;
+    height: fit-content;
+    object-fit: contain;
+}
+
+.heading{
+    font-size: 1.2rem;
+}
+
+.para{
+    font-size: 1.1rem;
+}
